@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About – Black Rune Atelier</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="logo">BLACK RUNE ATELIER</div>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+    </nav>
+  </header>
+
+  <main>
+    <h1>Our Story</h1>
+    <p>Black Rune Atelier is a minimalist Norse mythology and symbolism project built around black‑and‑grey aesthetics and tattoo‑ready designs.</p>
+  </main>
+
+  <footer>
+    <p>© Black Rune Atelier</p>
+  </footer>
+</body>
+</html>
